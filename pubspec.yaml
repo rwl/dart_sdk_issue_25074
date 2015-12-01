@@ -1,0 +1,3 @@
+name: dart_sdk_issue_25074
+dependencies:
+  browser: any
